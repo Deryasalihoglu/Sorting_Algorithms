@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class SelectionSort {
     public static void main(String[] args) {
         int[] arr = {22,27,16,2,18,6};
         System.out.println(Arrays.toString(selectionSort(arr)));
